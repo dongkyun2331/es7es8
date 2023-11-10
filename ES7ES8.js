@@ -31,6 +31,6 @@ const anotherObject = {
   third: 3,
 };
 
-const array = [1, 2, 3];
+const array = [1, , 3];
 
-console.log(array.length);
+console.log(array[2]);
