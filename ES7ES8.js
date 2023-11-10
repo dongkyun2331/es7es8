@@ -20,5 +20,15 @@ Object.values(object);
 Object.entries(object);
 
 // Exponentiation
-console.log(Math.pow(2, 3));
-console.log(2 ** 3);
+Math.pow(2, 3);
+2 ** 3;
+
+// Trailing Commas
+
+const anotherObject = {
+  first: 1,
+  second: 2,
+  third: 3,
+};
+
+console.log(anotherObject);
