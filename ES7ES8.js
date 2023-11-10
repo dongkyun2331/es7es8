@@ -17,4 +17,7 @@ Object.values(object);
 
 // Object.entries
 
-console.log(Object.entries(object));
+Object.entries(object);
+
+// Exponentiation
+console.log(Math.pow(2, 3));
