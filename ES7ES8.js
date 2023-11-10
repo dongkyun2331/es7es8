@@ -13,4 +13,8 @@ const object = {
   favoriteBooks: ["Harry Potter 1, Harry Potter 2"],
 };
 
-console.log(Object.values(object));
+Object.values(object);
+
+// Object.entries
+
+console.log(Object.entries(object));
