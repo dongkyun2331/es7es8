@@ -10,6 +10,7 @@ const string = "12345";
 const object = {
   name: "John",
   age: 20,
+  favoriteBooks: ["Harry Potter 1, Harry Potter 2"],
 };
 
 console.log(Object.values(object));
